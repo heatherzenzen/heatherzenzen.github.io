@@ -1,3 +1,30 @@
-p {
-  color: red;
+h1 {
+	Font-Family: 'Playfair Display', Serif;
+Font-Size: 48px;
+}
+h2 {
+	Font-Family: 'Playfair Display', Serif;
+Font-Size: 30px;
+	border-bottom: 5px double;
+	}
+h3 {
+	Font-Family: 'Playfair Display', Serif;
+Font-Size: 20px;
+	margin-bottom: -14px;
+	
+}
+ul li {
+	padding: 3px 0px;
+}
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
+}
+#pic {
+	float: right;
+}
+body {
+	Font-Family: 'Source Sans Pro', Sans-Serif;
+Font-Size: 16px;
+background: url(https://heatherzenzen.com/wp-content/uploads/2020/08/background-1.png);
 }
